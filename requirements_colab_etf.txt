@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+pandas
+pandas-ta
+yfinance
+psycopg2-binary
+SQLAlchemy
+python-dotenv
